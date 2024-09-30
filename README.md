@@ -30,4 +30,4 @@ Engineering thesis model implemented in Modelica.
 </p>
 
 # Comments and conclusions 
-Qualitative assessment was done. Curves match literatures, characteristics are modifiable, breaking point visible.
+Qualitative assessment was done. Curves match literatures, characteristics are modifiable, breaking point visible. Model needs validation with empirical data.
