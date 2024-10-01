@@ -1,6 +1,6 @@
 # Development of a dynamic model of a double-tube shock absorber 
 
-Engineering thesis model implemented in Modelica. 
+Engineering thesis model implemented in Modelica. Most of components are safe-made for learning purposes.
 
 ## Physical model
 <p align="center">
